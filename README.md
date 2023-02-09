@@ -4,12 +4,12 @@ This repository contains the final project from the course **[Data Science Lab: 
 
 Course topics:
 
-• Data science process: main phases
-• Data collection, cleaning, transformation and enrichment and feature engineering
-• Data mining algorithms: classification, regression, clustering, and association rule mining
-• Introduction to Python and data mining and machine learning libraries (e.g., scikit-learn)
-• Case study analysis
-• Data science process design in the lab
+• Data science process: main phases  
+• Data collection, cleaning, transformation and enrichment and feature engineering  
+• Data mining algorithms: classification, regression, clustering, and association rule mining  
+• Introduction to Python and data mining and machine learning libraries (e.g., scikit-learn)  
+• Case study analysis  
+• Data science process design in the lab  
 
 
 The project is aimed to perform a sentiment analysis on audio speech through different classification techniques. Both classic and more advanced machine
